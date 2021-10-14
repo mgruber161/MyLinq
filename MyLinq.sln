@@ -8,11 +8,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		readme.md = readme.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLinq.Logic", "MyLinq.Logic\MyLinq.Logic.csproj", "{298BD929-518E-4796-878B-0C410ECF60C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLinq.Logic", "MyLinq.Logic\MyLinq.Logic.csproj", "{298BD929-518E-4796-878B-0C410ECF60C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLinq.Logic.UnitTest", "MyLinq.Logic.UnitTest\MyLinq.Logic.UnitTest.csproj", "{7155BB24-8F4A-4611-88BD-66EBC2874BBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLinq.Logic.UnitTest", "MyLinq.Logic.UnitTest\MyLinq.Logic.UnitTest.csproj", "{7155BB24-8F4A-4611-88BD-66EBC2874BBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLinq.ConApp", "MyLinq.ConApp\MyLinq.ConApp.csproj", "{CC0832D4-48F0-489A-90E1-B7A46DBF9D00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLinq.ConApp", "MyLinq.ConApp\MyLinq.ConApp.csproj", "{CC0832D4-48F0-489A-90E1-B7A46DBF9D00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -40,6 +40,14 @@ namespace MyLinq.ConApp
 
             var avg = doubleArray.Average(x => x * 2);
             Console.WriteLine(avg);
+
+            var source = new List<int>();
+            for (int i = 0; i < 10; i++)
+            {
+                source.Add(i);
+            }
+
+            source.ForEach((x, y) => System.Console.WriteLine($"{x} {y}"));
         }
     }
 }
